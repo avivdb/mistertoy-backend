@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Action Figure",
+        "price": 150,
+        "labels": [
+            "Art",
+            "Doll"
+        ],
+        "createdAt": 1720610354470,
+        "inStock": true,
+        "_id": "a1b2c3",
+        "imgUrl": "https://ca.shopatshowcase.com/cdn/shop/files/slayer8_1200x.jpg?v=1701028325"
+    },
+    {
+        "name": "Remote Control Car",
+        "price": 200,
+        "labels": [
+            "On wheels",
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1720627345850,
+        "inStock": true,
+        "_id": "g7h8i9",
+        "imgUrl": "https://i.ebayimg.com/images/g/h5YAAOSwNgtgybT-/s-l1600.jpg"
+    },
+    {
+        "name": "Stuffed Bear",
+        "price": 40,
+        "labels": [
+            "Baby",
+            "Doll"
+        ],
+        "createdAt": 1720628435415,
+        "inStock": false,
+        "_id": "j1k2l3",
+        "imgUrl": "https://m.media-amazon.com/images/I/61nM3XhBEfL.jpg"
+    },
+    {
+        "name": "Toy Train",
+        "price": 120,
+        "labels": [
+            "On wheels",
+            "Battery Powered"
+        ],
+        "createdAt": 1720628441245,
+        "inStock": true,
+        "_id": "m4n5o6",
+        "imgUrl": "https://i5.walmartimages.com/seo/Thomas-Friends-Motorized-Thomas-Toy-Train-Engine-for-Preschool-Kids-Ages-3-Years-and-Older_9244dc6f-2c56-4a79-ae93-01deb50aa49f.032ac82b7ebff72933e78a5faed67f3b.jpeg"
+    },
+    {
+        "name": "Puzzle Cube",
+        "price": 15,
+        "labels": [
+            "Puzzle",
+            "Art"
+        ],
+        "createdAt": 1720643278455,
+        "inStock": true,
+        "_id": "p7q8r9",
+        "imgUrl": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/15/6227021/1.jpg?6562"
+    },
+    {
+        "name": "Dollhouse",
+        "price": 250,
+        "labels": [
+            "Doll",
+            "Art"
+        ],
+        "createdAt": 1720646642191,
+        "inStock": false,
+        "_id": "s1t2u3",
+        "imgUrl": "https://i5.walmartimages.com/seo/KidKraft-Charlotte-Classic-Wooden-Dollhouse-with-14-Accessories_ba7771de-546b-489a-a44b-5afa269e36f2.55f8d16c0ecd06ab7e155398fdbefb79.jpeg"
+    },
+    {
+        "name": "Race Track Set",
+        "price": 300,
+        "labels": [
+            "On wheels",
+            "Battery Powered"
+        ],
+        "createdAt": 1720647110410,
+        "inStock": true,
+        "_id": "v4w5x6",
+        "imgUrl": "https://m.media-amazon.com/images/I/91hkrUWrztL.jpg"
+    },
+    {
+        "name": "Action Hero",
+        "price": 180,
+        "labels": [
+            "Doll",
+            "Art"
+        ],
+        "createdAt": 1720647110813,
+        "inStock": false,
+        "_id": "y7z8a1",
+        "imgUrl": "https://rukminim2.flixcart.com/image/850/1000/xif0q/action-figure/y/o/6/3-combo-of-4-super-hero-action-figures-titan-hero-series-spider-original-imagm3mdhyzxzbpv.jpeg?q=90&crop=false"
+    },
+    {
+        "name": "Toy Robot",
+        "price": 220,
+        "labels": [
+            "Battery Powered"
+        ],
+        "createdAt": 1720647110981,
+        "inStock": true,
+        "_id": "b2c3d4",
+        "imgUrl": "https://m.media-amazon.com/images/I/71WxdjtRZsL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "name": "Magic Kit",
+        "price": 85,
+        "labels": [
+            "Box game"
+        ],
+        "createdAt": 1720647111135,
+        "inStock": false,
+        "_id": "e5f6g7",
+        "imgUrl": "https://m.media-amazon.com/images/I/81q14ON8plL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "name": "Flying Drone",
+        "price": 500,
+        "labels": [
+            "Outdoor",
+            "Battery Powered"
+        ],
+        "createdAt": 1720713270431,
+        "inStock": true,
+        "_id": "h8i9j1",
+        "imgUrl": "https://m.media-amazon.com/images/I/61NB1l21K0L._AC_SL1500_.jpg"
+    },
+    {
+        "name": "Toy Soldier",
+        "price": 50,
+        "labels": [
+            "Doll"
+        ],
+        "createdAt": 1720610354470,
+        "inStock": true,
+        "_id": "k2l3m4",
+        "imgUrl": "https://i.ebayimg.com/images/g/PZIAAOSwge9gLkC1/s-l400.jpg"
+    },
+    {
+        "name": "Electric Guitar",
+        "price": 320,
+        "labels": [
+            "Battery Powered"
+        ],
+        "createdAt": 1720610363320,
+        "inStock": false,
+        "_id": "n5o6p7",
+        "imgUrl": "https://i5.walmartimages.com/seo/Best-Choice-Products-Kids-Electric-Musical-Guitar-Toy-Play-Set-w-6-Demo-Songs-Whammy-Bar-Microphone-Amp-AUX-Red_a4296708-1198-42a7-986d-4b4bf672c120.b7d918bb495131b36eba100577e3d027.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    },
+    {
+        "name": "Toy Kitchen Set",
+        "price": 150,
+        "labels": [
+            "Baby",
+            "Art"
+        ],
+        "createdAt": 1720627345850,
+        "inStock": true,
+        "_id": "q8r9s1",
+        "imgUrl": "https://m.media-amazon.com/images/I/614bAev2oiL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "name": "Building Set",
+        "price": 60,
+        "labels": [
+            "Art",
+            "Puzzle"
+        ],
+        "createdAt": 1720628435415,
+        "inStock": true,
+        "_id": "t2u3v4",
+        "imgUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1694545742-81QEF3dDqoL.jpg?crop=0.988xw:1xh;center,top&resize=980:*"
+    },
+    {
+        "name": "Toy Telescope",
+        "price": 140,
+        "labels": [
+            "Outdoor"
+        ],
+        "createdAt": 1720628441245,
+        "inStock": false,
+        "_id": "w5x6y7",
+        "imgUrl": "https://cdn.playtherapysupply.com/img/f/ddb239aaeaaf.jpg"
+    },
+    {
+        "name": "Toy Plane",
+        "price": 240,
+        "labels": [
+            "Battery Powered"
+        ],
+        "createdAt": 1720646642191,
+        "inStock": true,
+        "_id": "c3d4e5",
+        "imgUrl": "https://i.ebayimg.com/images/g/JgIAAOSwMc9jGQYq/s-l1200.jpg"
+    },
+    {
+        "name": "Educational Tablet",
+        "price": 300,
+        "labels": [
+            "Battery Powered"
+        ],
+        "createdAt": 1720647110410,
+        "inStock": false,
+        "_id": "f6g7h8",
+        "imgUrl": "https://m.media-amazon.com/images/I/71xY1-fCyFL._AC_UF894,1000_QL80_.jpg"
+    }
+]

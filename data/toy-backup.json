@@ -1,0 +1,34 @@
+[
+    { 
+"_id": "t101", 
+"name": "Talking Doll", 
+"price": 123, 
+"labels": ["Doll"], 
+"createdAt": 1631031801011, 
+"inStock": true
+}
+,
+      { 
+"_id": "t102", 
+"name": "Talking Doll", 
+"price": 50, 
+"labels": ["Doll", "Baby"], 
+"createdAt": 1631031801014, 
+"inStock": true
+},  { 
+"_id": "t103", 
+"name": "Talking Doll", 
+"price": 150, 
+"labels": [ "Battery Powered"], 
+"createdAt": 1631031801012, 
+"inStock": true
+},  { 
+"_id": "t104", 
+"name": "Talking Doll", 
+"price": 87, 
+"labels": ["Doll", "Battery Powered"], 
+"createdAt": 1631031801013, 
+"inStock": true
+}
+    
+]
